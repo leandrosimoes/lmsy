@@ -1,0 +1,10 @@
+{
+  "name": "{{projectName}}",
+  "version": "1.0.0",
+  "keywords": [],
+  "license": "ISC",
+  "description": "{{projectName}}",
+  "scripts": {
+    "start": "npx live-server --port=8080 --host=localhost --entry-file=index.html"
+  }
+}
