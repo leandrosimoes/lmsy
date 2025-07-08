@@ -1,0 +1,29 @@
+{
+  "name": "let-me-show-you",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "let-me-show-you": "./index.js",
+    "lmsy": "./index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "cli",
+    "boilerplate",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": {
+    "name": "Leandro Simoes",
+    "url": "https://github.com/leandrosimoes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leandrosimoes/let-me-show-you.git"
+  },
+  "license": "MIT",
+  "description": "A CLI tool to create a boilerplate project with a simple HTML, CSS, and JavaScript structure. Use it for those \"let me show you how\" moments that you have with your colleagues where you need a quick basic HTML, CSS, and JavaScript project setup."
+}
