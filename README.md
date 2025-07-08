@@ -13,3 +13,5 @@ npx lmsy <project-name>
 ## Features
 
 - Creates a basic HTML, CSS, and JavaScript boilerplate project.
+- Includes a simple `index.html`, `reset.css`, `style.css`, and `script.js` file.
+- Includes a command to start a local server **with hot reloading** using `live-server` by running `npm start` into the new project's directory.
